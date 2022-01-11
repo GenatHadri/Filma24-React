@@ -1,0 +1,31 @@
+.footer {
+  margin-top: 137px;
+  background: linear-gradient(
+    180deg,
+    rgb(0 0 0 / 18%) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  padding: 5px 0 5px 0;
+  border-top: solid 2px rgb(6, 53, 63);
+}
+
+.footer-info {
+  position: relative;
+  margin-top: 27px;
+  left: 260px;
+  width: 80%;
+  font-size: 14px;
+  color: #bfd5db;
+  margin: 27px auto;
+  left: 0 !important;
+  width: 1300px !important;
+}
+
+.copyright p {
+  font-size: 15px;
+  color: #bfd5db;
+  margin-left: 50px;
+  line-height: 25px;
+  font-style: italic;
+  font-weight: 600;
+}

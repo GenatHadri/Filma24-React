@@ -1,0 +1,42 @@
+img {
+  width: 250px;
+  padding: 30px;
+  object-fit: contain;
+}
+
+.row_movies {
+  position: relative;
+  max-width: 250px;
+  float: left;
+}
+
+h6 {
+  margin-top: -10px;
+}
+
+.quality-poster {
+  text-align: center;
+  width: 56px;
+  height: 15px;
+  position: absolute;
+  z-index: 1;
+  text-transform: uppercase;
+  background: #08a4c8;
+  color: #fff;
+  top: 35px;
+  right: 35px;
+  font-weight: 600;
+  font-size: 0.7rem;
+}
+
+.imdb-poster {
+  position: absolute;
+  top: 55px;
+  right: 35px;
+  z-index: 1;
+  padding: 1px 3px;
+  background: #08a4c8;
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.8rem;
+}
